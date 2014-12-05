@@ -1,0 +1,4 @@
+*** Sidney Changelog ***
+
+05 DEC 2014 - version 1.0.0
+	* Initial release
