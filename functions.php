@@ -8,7 +8,7 @@ load_child_theme_textdomain( 'sidney', apply_filters( 'child_theme_textdomain', 
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', __( 'Sidney Theme', 'sidney' ) );
 define( 'CHILD_THEME_URL', 'http://wpcanada.ca/our-themes/sidney' );
-define( 'CHILD_THEME_VERSION', '1.0.0' );
+define( 'CHILD_THEME_VERSION', '1.0.1' );
 
 //* Add HTML5 markup structure
 add_theme_support( 'html5' );
